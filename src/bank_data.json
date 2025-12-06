@@ -1,0 +1,10 @@
+{
+  "next_id": 2,
+  "accounts": [
+    {
+      "id": 1,
+      "owner": "Adailton",
+      "balance": 100.0
+    }
+  ]
+}
